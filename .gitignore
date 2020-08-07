@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+cloud-client/.gitignore
+cloud-client/.mvn/
+cloud-client/mvnw
+cloud-client/mvnw.cmd
+
+cloud-discovery/.gitignore
+cloud-discovery/.mvn/
+cloud-discovery/mvnw
+cloud-discovery/mvnw.cmd
+
+cloud-provider/.gitignore
+cloud-provider/.mvn/
+cloud-provider/mvnw
+cloud-provider/mvnw.cmd
+
+
+springcloud.iml
+/.idea/vcs.xml
